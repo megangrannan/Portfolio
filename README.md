@@ -4,8 +4,7 @@ Welcome to my personal project portfolio!
 
 My current projects are:
 
-* **Coach Viva Database and Dashboard for KPIs** - Code excerpts from my work with Coach Viva, a health and fitness company. 
-  Project Goal: Develop analytics system to convert Viva’s sales funnel into a predictable revenue machine.
+* **Coach Viva Database and Dashboard for KPIs** - Code excerpts from my work with Coach Viva, a health and fitness company. <br /> **Project Goal**: Develop analytics system to convert Viva’s sales funnel into a predictable revenue machine.
     - Collaborated with co-founders to determine metrics for KPIs
     - Extracted data from multiple sources (Google Analytics, YouTube Analytics/APIs, ConvertKit email service provider, Bitly, web scraping) and segmented by traffic source (i.e.     social media, sales funnel pages) to calculate KPIs
     - Designed and built NoSQL database to store KPI data using Google Firestore
