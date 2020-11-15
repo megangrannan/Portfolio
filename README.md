@@ -9,7 +9,6 @@ My current projects are:
     - Extracted data from multiple sources (Google Analytics, YouTube Analytics/APIs, ConvertKit email service provider, Bitly, web scraping) and segmented by traffic source (i.e.     social media, sales funnel pages) to calculate KPIs
     - Designed and built NoSQL database to store KPI data using Google Firestore
     - Collaborated with CTO to develop a data management web app to automatically update database on a monthly basis, using Heroku and Flask
-    - Wrote JavaScript queries to populate data in custom company dashboard
 
 * **Analysis of Popular Topics on Data Science Stack Exchange** - Imagine you are a company creating data science related courses and content - what new content should you add? I analyze data from Data Science Stack Exchange and Cross Validated Stack Exchange to identify popular topics, track interest in these topics over time, and look for associations between popular tags. I query a database to get data, analyze the data using Python and related libraries, and include a variety of visualizations to better illustrate the findings.
 
