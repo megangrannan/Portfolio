@@ -4,11 +4,17 @@ Welcome to my personal project portfolio!
 
 My current projects are:
 
-* **Coach Viva Database and Dashboard for KPIs** - Code excerpts from my work with Coach Viva, a health and fitness company. <br /> **Project Goal**: Develop analytics system to convert Viva’s sales funnel into a predictable revenue machine.
+* **Coach Viva Database and Dashboard for KPIs** - Code excerpts from my work with Coach Viva, a health and fitness startup. <br /> **Project Goal**: Develop analytics system to convert Viva’s sales funnel into a predictable revenue machine.
     - Collaborated with co-founders to determine metrics for KPIs
     - Extracted data from multiple sources (Google Analytics, YouTube Analytics/APIs, ConvertKit email service provider, Bitly, web scraping) and segmented by traffic source (i.e.     social media, sales funnel pages) to calculate KPIs
     - Designed and built NoSQL database to store KPI data using Google Firestore
     - Collaborated with CTO to develop a data management web app to automatically update database on a monthly basis, using Heroku and Flask
+    
+* **Coach Viva Email Analysis - Hot Subscribers** - Code excerpts from my work with Coach Viva, a health and fitness startup. <br /> **Project Goals**:
+Use email list data to:
+    -   Identify "hot" subscribers (i.e. more engaged than typical) to target in our 30 day action plan, leading to an increase in sales conversions
+    -   Improve the quality of our email list by removing unengaged subscribers
+    -   Automate output - 2 CSV files with hot subscribers and inactive subscribers
 
 * **Analysis of Popular Topics on Data Science Stack Exchange** - Imagine you are a company creating data science related courses and content - what new content should you add? I analyze data from Data Science Stack Exchange and Cross Validated Stack Exchange to identify popular topics, track interest in these topics over time, and look for associations between popular tags. I query a database to get data, analyze the data using Python and related libraries, and include a variety of visualizations to better illustrate the findings.
 
