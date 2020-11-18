@@ -12,7 +12,7 @@ My current projects are:
     
 * **Coach Viva Email Analysis - Hot Subscribers** - Code excerpts from my work with Coach Viva, a health and fitness startup. <br /> **Project Goals**:
 Use email list data to:
-    -   Identify "hot" subscribers (i.e. more engaged than typical) to target in our 30 day action plan, leading to an increase in sales conversions
+    -   Identify "hot" subscribers (i.e. more engaged than typical) to target in our 30 day action plan, leading to an increase in conversions from our email list
     -   Improve the quality of our email list by removing unengaged subscribers
     -   Automate output - 2 CSV files with hot subscribers and inactive subscribers
 
